@@ -1,6 +1,8 @@
 ## 🧑‍💻 pig_Game
-very fun game you can play with your freind.player at position left start a game.(black background shows who's turn is it).each player rolls a dice until get 100 score to win, if a player rolls a dice to zero he loses all his scores and has to start again.
-each player can hold his scores by tapping on the hold button. winner gets the green background
+A very fun game you can play with your friend. The player on the left starts the game. (A black background indicates whose turn it is.)
+Each player rolls a dice to accumulate points until they reach 100 to win.
+If a player rolls a 1, they lose all the points they've collected in the current turn and the turn switches.
+Players can hold their score at any time to secure it before risking a 1
 
 🔗Link_Demo
 
@@ -13,7 +15,29 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 *  🎲 Roll Dice – Players can roll a dice to accumulate a temporary score
 *  💯 Hold Score – Players can hold their temporary score, adding it to their total
 *  🥇 Winning Condition – The first player to reach 100 points wins the game
+*  🔚 Lose Turn on 1 – Rolling a 1 ends the turn and resets the temporary score.
 *  💯 Score Display – Real-time display of both current and total scores
+
+### 🖱️ Interactivity
+* Button controls:
+      * Roll Dice button
+      * Hold button
+      * New Game button to restart
+* Animated Buttons:Buttons animate briefly when clicked using the .animation-btn class
+* Dice Image Display : Shows corresponding dice image (dice-1.png to dice-6.png) on each roll
+
+  ### 🎨 Ui feedback
+  * Active Player Highlighting – Current player is visually marked using active-player class
+  * Winner Highlight – Winning player is highlighted using the winner class
+  * Dice Visibility – Dice is hidden at the start and shown only during gameplay
+ 
+  ### 🔄 Utility Functions
+  * init() Function – Resets the game state and UI.
+  * switchPlayer() Function – Handles switching turns between players.
+
+
+
+
 
 
 
