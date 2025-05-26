@@ -20,9 +20,9 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 
 ### 🖱️ Interactivity
 * Button controls:
-                  ** Roll Dice button
-                  ** Hold button
-                  ** New Game button to restart
+       * Roll Dice button
+       * Hold button
+       * New Game button to restart
 * Animated Buttons:Buttons animate briefly when clicked using the .animation-btn class
 * Dice Image Display : Shows corresponding dice image (dice-1.png to dice-6.png) on each roll
 
@@ -31,9 +31,9 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * Winner Highlight – Winning player is highlighted using the winner class
 * Dice Visibility – Dice is hidden at the start and shown only during gameplay
  
-  ### 🔄 Utility Functions
-  * init() Function – Resets the game state and UI.
-  * switchPlayer() Function – Handles switching turns between players.
+### 🔄 Utility Functions
+* init() Function – Resets the game state and UI.
+* switchPlayer() Function – Handles switching turns between players.
 
 
 
