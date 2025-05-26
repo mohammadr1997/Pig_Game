@@ -20,9 +20,9 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 
 ### 🖱️ Interactivity
 * Button controls:
-                  * Roll Dice button
-                  * Hold button
-                  * New Game button to restart
+                  ** Roll Dice button
+                  ** Hold button
+                  ** New Game button to restart
 * Animated Buttons:Buttons animate briefly when clicked using the .animation-btn class
 * Dice Image Display : Shows corresponding dice image (dice-1.png to dice-6.png) on each roll
 
