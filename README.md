@@ -33,7 +33,7 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * switchPlayer() Function – Handles switching turns between players
 
 ### images
-📸 ![This is a project image.](/images/project/pig_game.png)
+ 📸 ![Pig Game Screenshot](./images/project/pig_game.png "Pig Game UI")
 
 
 
