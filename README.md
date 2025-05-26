@@ -8,7 +8,7 @@ each player can hold his scores by tapping on the hold button. winner gets the g
 >> this project was one of the best one that I learned javascript fundamentals in practice.
 I did it alone while I was practicing and re-learning DOM and basics in javascript
 
-### 🎮 ### Game_Mechanism
+### 🎮 Game_Mechanism
 *  🧑‍🤝‍🧑 1-Two-player turn-based game - Players take turns rolling a dice
 *  🎲 Roll Dice – Players can roll a dice to accumulate a temporary score
 *  💯 Hold Score – Players can hold their temporary score, adding it to their total
