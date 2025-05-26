@@ -38,7 +38,7 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * Vanilla JavaScript
   
 
-### 📸 Image
+## 📸 Image
   ![Pig Game Screenshot](Images/project/pig-game.png "Pig Game UI")
 
 
