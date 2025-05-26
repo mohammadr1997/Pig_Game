@@ -4,7 +4,10 @@ each player can hold his scores by tapping on the hold button. winner gets the g
 
 🔗Link_Demo
 
-
-> coding to create a game like this actually made me deeply apprehend all functionality of it and how to think and code to get to the final game
+> coding to create a game like this actually made me deeply apprehend all necessary functionality and how to think and code
 >> this project was one of the best one that I learned javascript fundamentals in practice.
 I did it alone while I was practicing and re-learning DOM and basics in javascript
+
+### 🚀  ###  Features
+
+
