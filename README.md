@@ -28,11 +28,12 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * Winner Highlight – Winning player is highlighted using the winner class
 * Dice Visibility – Dice is hidden at the start and shown only during gameplay
  
-### 🔄 Utility Functions
+## 🔄 Utility Functions
 * init() Function – Resets the game state and UI.
 * switchPlayer() Function – Handles switching turns between players
 
-  📸
+### images
+📸 ![This is a project image.](/images/project/pig_game.png)
 
 
 
