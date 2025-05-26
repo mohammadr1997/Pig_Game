@@ -33,7 +33,7 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * switchPlayer() Function – Handles switching turns between players
 
 ### images
- 📸 ![Pig Game Screenshot](https://github.com/mohammadr1997/Pig_Game/commit/e985821497035b49bfedd047a1e51efdcc60ade8#diff-542ac720962c4336feac8c96ade7fd3d11d845eaed25c902e054776e0369ae43 "Pig Game UI")
+ 📸 ![Pig Game Screenshot](Images/project/pig-game.png "Pig Game UI")
 
 
 
