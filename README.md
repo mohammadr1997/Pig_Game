@@ -41,7 +41,6 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 ## 📸 Image
   ![Pig Game Screenshot](Images/project/pig-game.png "Pig Game UI")
 
-
 ### 🧑‍💻 Author
 ###### Mohammad Baghban Rezaee
 GitHub: https://github.com/mohammadr1997
