@@ -1,4 +1,4 @@
-## 🧑‍💻 pig_Game
+# 🧑‍💻 pig_Game
 A very fun game you can play with your friend. The player on the left starts the game. (A black background indicates whose turn it is.)
 Each player rolls a dice to accumulate points until they reach 100 to win.
 If a player rolls a 1, they lose all the points they've collected in the current turn and the turn switches.
@@ -36,6 +36,12 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * HTML5
 * CSS 3
 * Vanilla JavaScript
+
+  ## 📁 Project Structure
+*/
+* ├── index.html      # Main HTML file
+* ├── style.css       # All custom styles
+* ├── script.js       # All custom scripts
   
 
 ## 📸 Image
