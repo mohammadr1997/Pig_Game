@@ -12,7 +12,7 @@
   --tertiary: "#EBF400";
 }
 body {
-  background-color: white;
+  background-color: whitesmoke;
   position: relative;
 }
 .player {
@@ -42,6 +42,11 @@ h4 {
     flex-direction: column;
     margin-top: 15rem;
   }
+  /* .player--0 {
+    margin-top: 55px;
+  }
+  .player--1 {
+  } */
   .player {
     width: 70%;
     font-size: 18px;
@@ -50,11 +55,9 @@ h4 {
     left: 10%;
     margin: 0 auto;
   }
+
   .player--1 {
-    top: 200px;
-  }
-  .player--2 {
-    top: 650px;
+    top: 20rem;
   }
   .current--score {
     font-size: 18px;
@@ -69,7 +72,7 @@ h4 {
     width: 30%;
   }
   .img-container {
-    top: 9.75rem;
+    top: 13.25rem;
     width: 100%;
   }
 }
