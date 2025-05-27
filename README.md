@@ -7,7 +7,7 @@ Players can hold their score at any time to secure it before risking a 1
 ### 🔗[Live Demo](https://pig-game-one-tan.vercel.app/)
 
 > coding to create a game like this actually made me deeply apprehend all necessary functionality and how to think and code
->> this project was one of the best one that I learned javascript fundamentals in practice.
+>> this project was one of the best one that I learned javascript fundamentals in practice
 I did it alone while I was practicing and re-learning DOM and basics in javascript
 
 ## 🎮 Game_Mechanism
@@ -15,7 +15,7 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 *  🎲 Roll Dice – Players can roll a dice to accumulate a temporary score
 *  💯 Hold Score – Players can hold their temporary score, adding it to their total
 *  🥇 Winning Condition – The first player to reach 100 points wins the game
-*  🔚 Lose Turn on 1 – Rolling a 1 ends the turn and resets the temporary score.
+*  🔚 Lose Turn on 1 – Rolling a 1 ends the turn and resets the temporary score
 *  💯 Score Display – Real-time display of both current and total scores
 
 ## 🖱️ Interactivity
