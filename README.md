@@ -37,8 +37,9 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 * CSS 3
 * Vanilla JavaScript
 
-  ## 📁 Project Structure
+## 📁 Project Structure
 */
+* ├── images          # All Images
 * ├── index.html      # Main HTML file
 * ├── style.css       # All custom styles
 * ├── script.js       # All custom scripts
