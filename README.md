@@ -4,7 +4,7 @@ Each player rolls a dice to accumulate points until they reach 100 to win.
 If a player rolls a 1, they lose all the points they've collected in the current turn and the turn switches.
 Players can hold their score at any time to secure it before risking a 1
 
-[🔗 Live Demo](https://pig-game-six-ochre.vercel.app/)
+[🔗 Live Demo](https://pig-game-one-tan.vercel.app/)
 
 > coding to create a game like this actually made me deeply apprehend all necessary functionality and how to think and code
 >> this project was one of the best one that I learned javascript fundamentals in practice.
