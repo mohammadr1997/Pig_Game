@@ -43,7 +43,7 @@ I did it alone while I was practicing and re-learning DOM and basics in javascri
 
 ### 🧑‍💻 Author
 ###### Mohammad Baghban Rezaee
-### GitHub: https://github.com/mohammadr1997
+###### GitHub: https://github.com/mohammadr1997
 
 
 
